@@ -1,0 +1,10 @@
+C:\Users\skipe\source\repos\Postaciekoniec\Postaciekoniec\obj\Debug\Postaciekoniec.csprojAssemblyReference.cache
+C:\Users\skipe\source\repos\Postaciekoniec\Postaciekoniec\obj\Debug\Postaciekoniec.Form1.resources
+C:\Users\skipe\source\repos\Postaciekoniec\Postaciekoniec\obj\Debug\Postaciekoniec.Properties.Resources.resources
+C:\Users\skipe\source\repos\Postaciekoniec\Postaciekoniec\obj\Debug\Postaciekoniec.csproj.GenerateResource.cache
+C:\Users\skipe\source\repos\Postaciekoniec\Postaciekoniec\obj\Debug\Postaciekoniec.csproj.CoreCompileInputs.cache
+C:\Users\skipe\source\repos\Postaciekoniec\Postaciekoniec\bin\Debug\Postaciekoniec.exe.config
+C:\Users\skipe\source\repos\Postaciekoniec\Postaciekoniec\bin\Debug\Postaciekoniec.exe
+C:\Users\skipe\source\repos\Postaciekoniec\Postaciekoniec\bin\Debug\Postaciekoniec.pdb
+C:\Users\skipe\source\repos\Postaciekoniec\Postaciekoniec\obj\Debug\Postaciekoniec.exe
+C:\Users\skipe\source\repos\Postaciekoniec\Postaciekoniec\obj\Debug\Postaciekoniec.pdb
